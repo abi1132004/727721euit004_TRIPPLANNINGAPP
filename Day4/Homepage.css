@@ -1,0 +1,64 @@
+.appbar1{
+    height:60px;
+    
+}
+.acc{
+    float: right;
+    margin-right:40px;
+    cursor: pointer
+}
+.boxes12{
+    padding-top: 0;
+    float: right;
+    float: initial;
+}
+.hnavbar1{
+    height: 800px;
+    width:80px;
+    background-color: blueviolet;
+}
+.list1{
+    list-style-type:none;
+}
+.menubutton1{
+    color:black;
+    margin-left: 40px;
+}
+.just{
+    cursor: pointer;
+}
+
+.just1{
+    cursor: pointer;
+    margin-right:5px;
+}
+.just56{
+    cursor: pointer;
+    margin-right:10px;
+}
+.logo1{
+
+}
+.home{
+    float:right; 
+   margin-right:30px;
+   
+}
+.search1{
+    height:50px;
+    width:500px;
+    margin-left:50px;
+    margin-bottom:-500px;
+}
+.sc1{
+    margin-bottom: 10px;
+
+}
+.homecard1{
+    display: grid;
+    grid-template-columns:auto auto auto auto;
+    grid-gap:8px;
+    position: relative;
+    margin-left:100px;
+    margin-bottom: 1000px;
+}
