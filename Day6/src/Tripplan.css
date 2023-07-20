@@ -1,0 +1,51 @@
+.trip-plan{
+    max-width: 500px;
+    margin:0 auto;
+    height: 800px;
+    width:4000px;
+    margin-right: 10px;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding: 80px;
+    color:white;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    text-align: center;
+    background-color: #89abc0;
+  }
+  .destinationbtn{
+    background-color: bisque;
+  }
+  .image4{
+    margin-left:100px;
+    margin-top: -825px;
+    margin-bottom: 500px;
+    width:1050px;
+    height:800px;
+  }
+  .email{
+    margin-bottom: 10px;
+  }
+/* 
+  .form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+   */
+  .email input,.password input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  .image5{
+    size: 70px;
+    width:50px;
+    height:100px;
+    align-items: center;
+  }
+  .login{
+    font-style :italic
+  }
+  
