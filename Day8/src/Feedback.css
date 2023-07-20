@@ -1,0 +1,30 @@
+.contact_us_2 {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,87,121,1) 35%, rgba(0,212,255,1) 100%);
+    background-size: cover;
+    height:50rem;
+    background-position: center;
+    color:antiquewhite;
+    text-align:center;
+  }
+  .form-box{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(218,155,88,1) 35%, rgba(0,212,255,1) 100%);
+    border:2px solid sandybrown;
+    box-sizing: border-box;
+    width:50rem;
+    margin-left: 400px;
+  }
+  .submit-btn{
+    border-radius: 1rem;
+    background-color: rgb(211, 235, 235);
+    width:70px;
+    height:30px;
+  }
+  .textinput{
+    border-radius: 1rem;
+    width:15rem;
+  }
+  .feedback-message{
+    color: lightgreen;
+  }
