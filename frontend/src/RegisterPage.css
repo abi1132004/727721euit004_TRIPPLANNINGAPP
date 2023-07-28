@@ -1,0 +1,62 @@
+.register {
+    background: #259dd1;
+    padding: 20px;
+    width: 500px;
+    margin: 0 auto;
+    border-radius: 5px;
+  }
+  
+  .register h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .register form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .register .form-group {
+    margin-bottom: 10px;
+  }
+  
+  .register label {
+    font-weight: bold;
+  }
+  
+  .register input,
+  .register select {
+    width: 100%;
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  .register .register-button {
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .register .toast-message {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 4px;
+  }
+  
+  .register p {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  .register p a {
+    color: blue;
+    text-decoration: none;
+  }
+  
